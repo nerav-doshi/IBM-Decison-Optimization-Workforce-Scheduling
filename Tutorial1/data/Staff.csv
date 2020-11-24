@@ -1,0 +1,33 @@
+name,pay_rate,skills,days off,seniority,qualification
+Anne,25,CustomerService,"Saturday,Sunday",11,1
+Bethanie,28,CustomerService,"Wednesday,Tuesday",4,5
+Betsy,17,CustomerService,"Monday,Thursday",2,2
+Cathy,17,CustomerService,"Thursday,Tuesday",2,2
+Cecilia,38,CustomerService,"Friday,Wednesday",9,5
+Chris,38,CustomerService,"Thursday,Tuesday",11,4
+Cindy,21,"Forklift, CustomerService",Sunday,5,2
+David,15,"Forklift, CustomerService",Monday,1,2
+Debbie,24,"Forklift, CustomerService","Saturday,Wednesday",7,2
+Dee,21,"Forklift, CustomerService","Tuesday,Friday",3,3
+Gloria,25,Supervisor,Monday,8,2
+Isabelle,16,Forklift,"Monday,Thursday",3,1
+Jane,23,Forklift,"Saturday,Sunday",3,4
+Janelle,22,Forklift,"Wednesday,Friday",4,3
+Janice,17,Forklift,"Tuesday,Friday",2,2
+Jemma,22,Forklift,"Friday,Wednesday",2,4
+Joan,24,Forklift,"Thursday,Saturday",5,3
+Joyce,29,Forklift,"Sunday,Thursday",8,3
+Jude,22,Forklift,"Tuesday,Friday",4,3
+Julie,22,CustomerService,Sunday,6,2
+Juliet,31,Forklift,"Thursday,Tuesday",7,4
+Kate,24,Supervisor,"Tuesday,Monday",5,3
+Nancy,32,Forklift,Sunday,8,4
+Nathalie,38,CustomerService,"Sunday,Thursday",9,5
+Nicole,14,Forklift,"Friday,Wednesday",0,2
+Patricia,13,Forklift,"Saturday,Wednesday",1,1
+Patrick,19,CustomerService,"Saturday,Sunday",6,1
+Roberta,26,Forklift,"Friday,Saturday",3,5
+Suzanne,18,Supervisor,Monday,5,1
+Vickie,20,Forklift,"Wednesday,Friday",7,1
+Wendie,21,CustomerService,"Thursday,Saturday",5,2
+Zoe,29,Forklift,"Saturday,Sunday",8,3
