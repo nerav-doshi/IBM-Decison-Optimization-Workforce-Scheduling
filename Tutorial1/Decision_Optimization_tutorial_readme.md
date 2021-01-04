@@ -98,27 +98,32 @@ To learn more about how to use the templates click [here](https://www.ibm.com/su
 
 - Next, we modify the second suggested constraint. Click the **1** for the *The number of Shifts  assigned to each Employee is less than or equal to  1* and type 5. This will make sure that every employee will not get more than 5 shifts during a week.
 
-- Now we add a constraint, On the Suggestion section on the right, type *For each Employee to Shift assignment requested skills of assigned Shift  is included in  skills of assigned Employees* You can click the plus icon next to *For each Employee to Shift assignment , requested skills of assigned Shift  is included in  skills of assigned Employees*.
+- Now we add a constraint, On the Suggestion section on the right, type *For each Employee to Shift assignment requested skills of assigned Shift  is included in  skills of assigned Employees* You can click the plus icon next to **For each Employee to Shift assignment , requested skills of assigned Shift  is included in  skills of assigned Employees**.
 This constraint will make sure that every shift will get employees with skills that are necessary to staff the department.
 
-- Employees should not be assigned to a shift on the preassigned days off, to add this constraint, click search bar under the Suggestion section on the right, *For each assignment , day of Shift of assignment  is disjoint from  days off of Employee of assignment* You can click the plus icon next to *For each Employee to Shift assignment , day of assigned Shift is disjoint from  days off of assigned Employees*
+- Employees should not be assigned to a shift on the preassigned days off, to add this constraint, click search bar under the Suggestion section on the right, *For each assignment , day of Shift of assignment  is disjoint from  days off of Employee of assignment* You can click the plus icon next to **For each Employee to Shift assignment , day of assigned Shift is disjoint from  days off of assigned Employees**.
 
-- Every department for every shift needs minimum employees to be staffed. To make sue we have minimum employees we add a constraint. On search bar under suggestion type *The number of Employees  assigned to each Shift  is greater than or equal to  min req*. Click the plus icon next to *The number of Employees  assigned to each Shift  is less than or equal to  max req*
+- Every department for every shift needs minimum employees to be staffed. To make sue we have minimum employees we add a constraint. On search bar under Suggestion type *The number of Employees  assigned to each Shift  is greater than or equal to  min req*. Click the plus icon next to **The number of Employees  assigned to each Shift  is less than or equal to  max req**.
 
 ![Step2c](../images/Tutorial2-Step2c.gif)
+
+- We add another objective. type in *Balance total duration of Shift of assignments of Employee over Employee* and click plus icon next to **Balance total duration of Shift of assignments of Employee over Employee**. Move the slider next to it change the weightage to 7. You should have 3 objectives with different weightage.
+
+- Click Settings tab under Add to model section and change Default duration unit from days to hrs. Click *days* and from dropdown select *hours*
 
 - In the upper-right corner, click **Run model** to send the model to the optimization engine. The model runs and you’re presented with the value of the objective function. In the KPI's section, you can scroll down and review the kpis table and in solution tab look at the solution . You can also explore the engine statistics and log tab
 
 ![Step2d](../images/Tutorial2-Step2d.gif)
 
-### Step 3. Create Scenario and compare solution
+### Step 5. Create Scenario and compare solution
 
-- Click Scenarios on top right. A panel opens with Scenario1. Click on three dots Rename and give it a name example:*PromoSelection*
+- Click Scenarios on top right. A panel opens with Scenario1. Click on three dots Rename and give it a name example:*EmplShiftAssignment_Base*
 ![Step3](../images/Tutorial2-Step3.png)
 ![Step3a](../images/Tutorial2-Step3a.png)
 
--  Click on three dots of PromoSection scenario. Click Duplicate and give it a name example:*PromoSelection2*
-- - Now we add a constraint, On the Suggestion section on the right, we type *predictedIncrease is less or equal to 10* You can click the plus icon next to *No selection of predictedIncrease is greater or equal to 0*. We add this constraint to select only product class where demand might decrease than stock on hand so that we can promote those product class.Click Run to solve this scenario and explore solution.
+-  Click on three dots of EmplShiftAssignment_Base scenario. Click Duplicate and give it a name example:*EmplShiftAssignment_Balance*
+
+- Now we add a constraint, the Suggestion section on the right, we type *For each EmployeeAvailability , number of assignments of employee  where day of assigned Shift is day of EmployeeAvailability  is less than or equal to  max shift* You can click the plus icon next to **For each EmployeeAvailability , number of assignments of employee  where day of assigned Shift is day of EmployeeAvailability  is less than or equal to  max shift**. We add this constraint to make sure no employee is scheduled 2 shifts per day
 
 ![Step3b](../images/Tutorial2-Step3b.png)
 
