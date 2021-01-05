@@ -20,7 +20,7 @@
 
  ![Step2](../images/Tutorial1-Step2.png)
 
- Click *Employee.csv* under Data assets and you can preview the dataset.
+ Click **Employee.csv** under Data assets and you can preview the dataset.
  __Input Data__
 
  **employeeId**	- employee id
@@ -33,7 +33,8 @@
 
  **qualification** - employee qualification to do the job. This column can be used to assign constraints. For this use case we will not be using this column.
 
-  Click *Shift.csv* to preview data regarding shift information
+  Click _*Shift.csv*_ to preview data regarding shift information
+
   **shiftId**	- shift id
 
   **department**	- name of department that needs to be staffed
