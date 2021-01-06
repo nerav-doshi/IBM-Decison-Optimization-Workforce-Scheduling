@@ -33,7 +33,7 @@
 
  **qualification** - employee qualification to do the job. This column can be used to assign constraints. For this use case we will not be using this column.
 
-  Click _*Shift.csv*_ to preview data regarding shift information
+  Click **Shift.csv** to preview data regarding shift information
 
   **shiftId**	- shift id
 
@@ -57,7 +57,7 @@
 
   You're ready to start setting up the optimization model and configure the data set and create an initial optimization model that you can run.
 
-  - Click the Add to Project button in the top-right corner. A window with all services and you can click the Decision Optimization Experiments tile. Give it a name. Select deployment space. If there is no deployment space associated than you will be asked to create one.For the purposes of this demo, the name *Workforce Production models*
+  - Click the Add to Project button in the top-right corner. A window with all services and you can click the Decision Optimization Experiments tile. Give it a name. Select deployment space. If there is no deployment space associated than you will be asked to create one.For the purposes of this demo, the name **Workforce Production models**
 
   - Click Create.The model builder is shown, which guides you through the steps in the model creation process. You start with the Select Data step on the right side. Click the browse to add all data files directly from your data folder or you can import files from project.
 
@@ -91,7 +91,7 @@ To learn more about how to use the templates click [here](https://www.ibm.com/su
 
 - Under the Objectives you will see: Maximize the number of Employee to Shift assignments. On the right under the Suggestion section, you will see a few suggested constraints.
 
-- On the search bar under Suggestion section on the right, type *minimize total pay rate* and click on magnifying glass or hit enter. It gives you a list of suggestions. You can click the plus icon next to *Minimize total pay rate of Employees over all selections*
+- On the search bar under Suggestion section on the right, type *minimize total pay rate* and click on magnifying glass or hit enter. It gives you a list of suggestions. You can click the **plus** icon next to **Minimize total pay rate of Employees over all selections**
 
 - Increase weightage but sliding bar to right for *Maximize the number of Employee to Shift assignments* objective. This will give more weightage to this objective over Minimize total pay rate of Employees over all selections objective.
 
