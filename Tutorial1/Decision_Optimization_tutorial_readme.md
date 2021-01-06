@@ -18,7 +18,7 @@
  - Click the browse link and select the *Employee.csv, EmployeeAvailability.csv Shift.csv and Day.csv* file from the [data folder].
  - Click Open and the file is uploaded in cloud object storage
 
- ![Step2](../images/Tutorial1-Step2.png)
+ ![Step2](../images/Tutorial1-Step2.gif)
 
  Click **Employee.csv** under Data assets and you can preview the dataset.
  __Input Data__
@@ -59,16 +59,23 @@
 
   - Click the Add to Project button in the top-right corner. A window with all services and you can click the Decision Optimization Experiments tile. Give it a name. Select deployment space. If there is no deployment space associated than you will be asked to create one.For the purposes of this demo, the name **Workforce Production models**
 
+![Step3](../images/Tutorial1-Step3.gif)
+
   - Click Create.The model builder is shown, which guides you through the steps in the model creation process. You start with the Select Data step on the right side. Click the browse to add all data files directly from your data folder or you can import files from project.
 
   - To import data from project. Click Import.Select the *Employee.csv, EmployeeAvailability.csv Shift.csv and Day.csv* file from the list. You’re now in the Prepare data step in the model builder. In this step, you can review and edit the imported data files.
 
+![Step3](../images/Tutorial1-Step3a.png)
+![Step3](../images/Tutorial1-Step3b.png)
 
 ### Step 4. Define the optimization model using natural language modeling assistant
 In this step, we will develop an optimization model
 
 - In the left navigation of the model builder, click Run Model.
+![Step4](../images/Tutorial1-Step4a.png)
+
 - In the wizard that opens, click Use Modeling Assistant. The modeling assistant has four prebuilt common templates.
+![Step4](../images/Tutorial1-Step4b.png)
 
   **Scheduling** - The Scheduling domain when you have tasks or activities that you need to schedule, to be done in a given order with specific start and end times.
 
