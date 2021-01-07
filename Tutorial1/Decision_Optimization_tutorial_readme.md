@@ -94,7 +94,7 @@ To learn more about how to use the templates click [here](https://www.ibm.com/su
 
   The initial model is shown with an objective and a few preselected constraints.The objective is to **Assign Employees to Shifts**. Click Continue and then click Finish.
 
-  [Step2a](../images/Tutorial2-Step2a.gif)
+  [Step4](../images/Tutorial2-Step4c.gif)
 
 - Under the Objectives you will see: Maximize the number of Employee to Shift assignments. On the right under the Suggestion section, you will see a few suggested constraints.
 
@@ -106,10 +106,11 @@ To learn more about how to use the templates click [here](https://www.ibm.com/su
 
 - Next, we modify the second suggested constraint. Click the **1** for the *The number of Shifts  assigned to each Employee is less than or equal to  1* and type 5. This will make sure that every employee will not get more than 5 shifts during a week.
 
+[Step4](../images/Tutorial2-Step4d.gif)
+
+
 - Now we add a constraint, On the Suggestion section on the right, type *For each Employee to Shift assignment requested skills of assigned Shift  is included in  skills of assigned Employees* You can click the plus icon next to **For each Employee to Shift assignment , requested skills of assigned Shift  is included in  skills of assigned Employees**.
 This constraint will make sure that every shift will get employees with skills that are necessary to staff the department.
-
-- Employees should not be assigned to a shift on the preassigned days off, to add this constraint, click search bar under the Suggestion section on the right, *For each assignment , day of Shift of assignment  is disjoint from  days off of Employee of assignment* You can click the plus icon next to **For each Employee to Shift assignment , day of assigned Shift is disjoint from  days off of assigned Employees**.
 
 - Every department for every shift needs minimum employees to be staffed. To make sue we have minimum employees we add a constraint. On search bar under Suggestion type *The number of Employees  assigned to each Shift  is greater than or equal to  min req*. Click the plus icon next to **The number of Employees  assigned to each Shift  is less than or equal to  max req**.
 
