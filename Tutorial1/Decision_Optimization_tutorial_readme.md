@@ -122,17 +122,32 @@ This constraint will make sure that every shift will get employees with skills t
 ### Step 5. Create Scenario and compare solution
 
 - Click Scenarios on top right. A panel opens with Scenario1. Click on three dots Rename and give it a name example:*EmplShiftAssignment_Base*
-![Step3](../images/Tutorial2-Step3.png)
-![Step3a](../images/Tutorial2-Step3a.png)
 
 -  Click on three dots of EmplShiftAssignment_Base scenario. Click Duplicate and give it a name example:*EmplShiftAssignment_Balance*
+
+![Step5](../images/Tutorial1-Step5a.gif)
 
 - - We add another objective. type in *Balance total duration of Shift of assignments of Employee over Employee* and click plus icon next to **Balance total duration of Shift of assignments of Employee over Employee**. Move the slider next to it change the weightage to 7. You should have 3 objectives with different weightage.
 
 - Now we add a constraint with condition, here we want to limit the assignment to 1 shift per day and respect employee holidays. We will add this constraint in 3 steps
-  a. In the Suggestion section on the right, we type *For each EmployeeAvailability , number of assignments of employee  where day of assigned Shift is day of EmployeeAvailability  is less than or equal to  max shift* You can click the plus icon next to **For each EmployeeAvailability , number of assignments of employee  where day of assigned Shift is day of EmployeeAvailability  is less than or equal to  max shift**. We add this constraint to make sure no employee is scheduled 2 shifts per day
+  **a**. In the Suggestion section on the right, we type *For each EmployeeAvailability, number of assignments of employee  <= max shift* You can click the plus icon next to **For each EmployeeAvailability,number of assignments of employee is less than or equal to max shift**. We add this constraint to make sure no employee is scheduled 2 shifts per day
 
-![Step3b](../images/Tutorial2-Step3b.png)
+![Step5](../images/Tutorial1-Step5b.png)
+
+  **b**. Click **number of assignments of employee** and Add condition
+![Step5](../images/Tutorial1-Step5c.png)
+
+  **b**. Type **day of assigned Shift is day of EmployeeAvailability** and select **Day (such that Day index is assigned Shift) is day of EmployeeAvailability**
+![Step5](../images/Tutorial1-Step5d.png)
+
+  You should see the following model created using natural language.In the upper-right corner, click **Run model** to send the model to the optimization engine.
+![Step5](../images/Tutorial1-Step5e.png)
+
+- The model runs and you’re presented with the value of the objective function.You can see the model type, engine log and KPIs tab
+![Step5](../images/Tutorial1-Step5f.png)
+
+- Click Explore Solution and review Objective and Solution Table tab to look at employee assignment by shift
+![Step5](../images/Tutorial1-Step5f.png)
 
 - Click Visualization. Click on pencil icon on right-side. Click Json tab and delete the content. Copy the content from visualization.json file located [here](https://github.com/nerav-doshi/IBM-AutoAI-and-Decision-Optimization-on-Watson-Studio/blob/main/Tutorial2/data/visualization.json) and paste it here. You will see Input and Scenario comparsion tab populated with charts. One can use the dashboard to analyze results.
 
