@@ -111,7 +111,7 @@ To learn more about how to use the templates click [here](https://www.ibm.com/su
 - Now we add a constraint, On the Suggestion section on the right, type *For each Employee to Shift assignment requested skills of assigned Shift  is included in  skills of assigned Employees* You can click the plus icon next to **For each Employee to Shift assignment , requested skills of assigned Shift  is included in  skills of assigned Employees**.
 This constraint will make sure that every shift will get employees with skills that are necessary to staff the department.
 
-- Every department for every shift needs minimum employees to be staffed. To make sue we have minimum employees we add a constraint. On search bar under Suggestion type *The number of Employees  assigned to each Shift  is greater than or equal to  min req*. Click the plus icon next to **The number of Employees  assigned to each Shift  is greater than or equal to  min req***.
+- Every department for every shift needs minimum employees to be staffed. To make sue we have minimum employees we add a constraint. On search bar under Suggestion type *The number of Employees  assigned to each Shift  is greater than or equal to  min req*. Click the plus icon next to **The number of Employees  assigned to each Shift  is greater than or equal to  min req**.
 
 - Click Settings tab under Add to model section and change Default duration unit from days to hrs. Click *days* and from dropdown select *hours*
 
@@ -134,7 +134,7 @@ This constraint will make sure that every shift will get employees with skills t
 
 ![Step5](../images/Tutorial1-Step5b.png)
 
-  **b**. Click **number of assignments of employee** and Add condition
+  **b**. Click **number of assignments of employee** and Add condition.
 ![Step5](../images/Tutorial1-Step5c.png)
 
   **b**. Type **day of assigned Shift is day of EmployeeAvailability** and select **Day (such that Day index is assigned Shift) is day of EmployeeAvailability**
@@ -143,10 +143,10 @@ This constraint will make sure that every shift will get employees with skills t
   You should see the following model created using natural language.In the upper-right corner, click **Run model** to send the model to the optimization engine.
 ![Step5](../images/Tutorial1-Step5e.png)
 
-- The model runs and you’re presented with the value of the objective function.You can see the model type, engine log and KPIs tab
+- The model runs and you’re presented with the value of the objective function.You can see the model type, engine log and KPIs tab.
 ![Step5](../images/Tutorial1-Step5f.png)
 
-- Click Explore Solution and review Objective and Solution Table tab to look at employee assignment by shift
+- Click Explore Solution and review Objective and Solution Table tab to look at employee assignment by shift.
 ![Step5](../images/Tutorial1-Step5g.png)
 
 - Click Visualization. Click on pencil icon on right-side. Click Json tab and delete the content. Copy the content from visualization.json file located [here](https://github.com/nerav-doshi/IBM-AutoAI-and-Decision-Optimization-on-Watson-Studio/blob/main/Tutorial2/data/visualization.json) and paste it here. You will see Input, Output and Scenario comparison tab populated with charts. One can use the dashboard to analyze results.
