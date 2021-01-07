@@ -1,0 +1,369 @@
+{
+  "name": "Dashboard",
+  "locked": false,
+  "filter": "",
+  "activePage": 0,
+  "pages": [
+    {
+      "id": "c4ebf177-9cfe-4802-a285-b3d55e115884",
+      "name": "Input",
+      "filter": "",
+      "widgets": {
+        "e24b50ba-2c52-41dc-a437-e046c783732c": {
+          "name": "",
+          "type": "ECharts",
+          "props": {
+            "container": "",
+            "data": "Employee",
+            "spec": {
+              "editor": false,
+              "width": "100%",
+              "height": "100%",
+              "padding": 0,
+              "theme": "ibm_default",
+              "chartSettings": {
+                "type": "bar",
+                "categoriesField": "employeeId",
+                "orderBasis": "name",
+                "categoriesOrder": "asc",
+                "summaryMethod": "sum",
+                "valuesField": "pay rate",
+                "splitField": "skills",
+                "splitType": "clustered",
+                "barStyle": "normal",
+                "title": " ",
+                "filterNullValue": false,
+                "showARIA": false,
+                "showToolbox": true,
+                "theme": "ibm_default",
+                "gridLines": true,
+                "__version": "2.3"
+              },
+              "showValueLabels": false,
+              "usedFields": [
+                "employeeId",
+                "skills",
+                "pay rate"
+              ]
+            },
+            "search": ""
+          }
+        }
+      },
+      "layouts": {
+        "SM": [
+          {
+            "i": "e24b50ba-2c52-41dc-a437-e046c783732c",
+            "x": 0,
+            "y": 0,
+            "w": 1,
+            "h": 4,
+            "moved": false,
+            "static": false
+          }
+        ],
+        "MD": [
+          {
+            "i": "e24b50ba-2c52-41dc-a437-e046c783732c",
+            "x": 0,
+            "y": 0,
+            "w": 2,
+            "h": 4,
+            "moved": false,
+            "static": false
+          }
+        ],
+        "LG": [
+          {
+            "w": 6,
+            "h": 4,
+            "x": 0,
+            "y": 0,
+            "i": "e24b50ba-2c52-41dc-a437-e046c783732c",
+            "moved": false,
+            "static": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "9d1706e2-6eb2-437b-842a-a70e5c4a9a0d",
+      "name": "Output",
+      "filter": "",
+      "widgets": {
+        "19c9f201-be0d-47b7-9484-b0efe070a7c6": {
+          "name": "",
+          "type": "ECharts",
+          "props": {
+            "container": "",
+            "data": "AssignedShifts",
+            "spec": {
+              "editor": false,
+              "width": "100%",
+              "height": "100%",
+              "padding": 0,
+              "theme": "ibm_default",
+              "chartSettings": {
+                "type": "bar",
+                "categoriesField": "Employee",
+                "orderBasis": "name",
+                "categoriesOrder": "asc",
+                "summaryMethod": "sum",
+                "valuesField": "Shift",
+                "splitField": "Shift department",
+                "splitType": "stacked",
+                "barStyle": "normal",
+                "title": " ",
+                "filterNullValue": false,
+                "showARIA": false,
+                "showToolbox": true,
+                "theme": "ibm_default",
+                "gridLines": true,
+                "__version": "2.3"
+              },
+              "showValueLabels": false,
+              "usedFields": [
+                "Employee",
+                "Shift department",
+                "Shift"
+              ]
+            },
+            "search": ""
+          }
+        }
+      },
+      "layouts": {
+        "SM": [
+          {
+            "i": "19c9f201-be0d-47b7-9484-b0efe070a7c6",
+            "x": 0,
+            "y": 0,
+            "w": 1,
+            "h": 4,
+            "moved": false,
+            "static": false
+          }
+        ],
+        "MD": [
+          {
+            "i": "19c9f201-be0d-47b7-9484-b0efe070a7c6",
+            "x": 0,
+            "y": 0,
+            "w": 2,
+            "h": 4,
+            "moved": false,
+            "static": false
+          }
+        ],
+        "LG": [
+          {
+            "w": 6,
+            "h": 4,
+            "x": 0,
+            "y": 0,
+            "i": "19c9f201-be0d-47b7-9484-b0efe070a7c6",
+            "moved": false,
+            "static": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "198b925f-eddb-4894-9c5b-4123ec50135c",
+      "name": "ScenarioComparison",
+      "filter": "",
+      "widgets": {
+        "e9126aa7-d5d8-4779-ab48-6f065a419179": {
+          "name": "",
+          "type": "Table",
+          "props": {
+            "container": "*",
+            "data": "kpis",
+            "spec": {
+              "numbered": true,
+              "compact": true,
+              "columnExpand": true,
+              "columnShrink": false,
+              "columnWidth": 0,
+              "sortOrder": [],
+              "columns": [
+                {
+                  "property": "Name",
+                  "label": "Name",
+                  "type": "String",
+                  "visible": true,
+                  "width": 0,
+                  "style": {}
+                },
+                {
+                  "property": "@ Scenario",
+                  "label": "@ Scenario",
+                  "type": "String",
+                  "visible": true,
+                  "width": 0,
+                  "style": {}
+                },
+                {
+                  "property": "Value",
+                  "label": "Value",
+                  "type": "Number",
+                  "visible": true,
+                  "width": 0,
+                  "style": {}
+                },
+                {
+                  "property": "Slider",
+                  "label": "Slider",
+                  "type": "Number",
+                  "visible": true,
+                  "width": 0,
+                  "style": {}
+                },
+                {
+                  "property": "Weight factor",
+                  "label": "Weight factor",
+                  "type": "Number",
+                  "visible": true,
+                  "width": 0,
+                  "style": {}
+                },
+                {
+                  "property": "Scale factor",
+                  "label": "Scale factor",
+                  "type": "Number",
+                  "visible": true,
+                  "width": 0,
+                  "style": {}
+                },
+                {
+                  "property": "Scaled weighted value",
+                  "label": "Scaled weighted value",
+                  "type": "Number",
+                  "visible": true,
+                  "width": 0,
+                  "style": {}
+                }
+              ]
+            },
+            "search": ""
+          }
+        },
+        "59c71283-01f1-48c3-b070-2d90a8525f85": {
+          "name": "",
+          "type": "Chart",
+          "props": {
+            "container": "*",
+            "data": "kpis",
+            "spec": {
+              "mark": "bar",
+              "encoding": {
+                "x": {
+                  "field": "Value",
+                  "type": "quantitative"
+                },
+                "y": {
+                  "field": "Name",
+                  "type": "nominal"
+                },
+                "column": {
+                  "field": "@ Scenario",
+                  "type": "nominal"
+                }
+              },
+              "config": {
+                "overlay": {
+                  "line": true
+                },
+                "scale": {
+                  "useUnaggregatedDomain": true
+                }
+              }
+            },
+            "search": ""
+          }
+        }
+      },
+      "layouts": {
+        "SM": [
+          {
+            "i": "e9126aa7-d5d8-4779-ab48-6f065a419179",
+            "x": 0,
+            "y": 0,
+            "w": 1,
+            "h": 2,
+            "moved": false,
+            "static": false
+          },
+          {
+            "i": "59c71283-01f1-48c3-b070-2d90a8525f85",
+            "x": 0,
+            "y": 2,
+            "w": 1,
+            "h": 2,
+            "moved": false,
+            "static": false
+          }
+        ],
+        "MD": [
+          {
+            "i": "e9126aa7-d5d8-4779-ab48-6f065a419179",
+            "x": 0,
+            "y": 0,
+            "w": 3,
+            "h": 2,
+            "moved": false,
+            "static": false
+          },
+          {
+            "i": "59c71283-01f1-48c3-b070-2d90a8525f85",
+            "x": 0,
+            "y": 2,
+            "w": 1,
+            "h": 2,
+            "moved": false,
+            "static": false
+          }
+        ],
+        "LG": [
+          {
+            "i": "e9126aa7-d5d8-4779-ab48-6f065a419179",
+            "x": 0,
+            "y": 0,
+            "w": 6,
+            "h": 2,
+            "moved": false,
+            "static": false
+          },
+          {
+            "w": 6,
+            "h": 2,
+            "x": 0,
+            "y": 2,
+            "i": "59c71283-01f1-48c3-b070-2d90a8525f85",
+            "moved": false,
+            "static": false
+          }
+        ]
+      }
+    }
+  ],
+  "breakpoints": [
+    {
+      "name": "SM",
+      "width": 0,
+      "columns": 1
+    },
+    {
+      "name": "MD",
+      "width": 480,
+      "columns": 3
+    },
+    {
+      "name": "LG",
+      "width": 960,
+      "columns": 6
+    }
+  ],
+  "rowHeight": 120,
+  "extensions": []
+}

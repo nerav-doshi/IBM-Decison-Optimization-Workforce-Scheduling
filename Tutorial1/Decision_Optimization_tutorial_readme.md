@@ -147,13 +147,12 @@ This constraint will make sure that every shift will get employees with skills t
 ![Step5](../images/Tutorial1-Step5f.png)
 
 - Click Explore Solution and review Objective and Solution Table tab to look at employee assignment by shift
-![Step5](../images/Tutorial1-Step5f.png)
+![Step5](../images/Tutorial1-Step5g.png)
 
-- Click Visualization. Click on pencil icon on right-side. Click Json tab and delete the content. Copy the content from visualization.json file located [here](https://github.com/nerav-doshi/IBM-AutoAI-and-Decision-Optimization-on-Watson-Studio/blob/main/Tutorial2/data/visualization.json) and paste it here. You will see Input and Scenario comparsion tab populated with charts. One can use the dashboard to analyze results.
-
-![Step3c](../images/Tutorial2-Step3c.gif)
+- Click Visualization. Click on pencil icon on right-side. Click Json tab and delete the content. Copy the content from visualization.json file located [here](https://github.com/nerav-doshi/IBM-AutoAI-and-Decision-Optimization-on-Watson-Studio/blob/main/Tutorial2/data/visualization.json) and paste it here. You will see Input, Output and Scenario comparison tab populated with charts. One can use the dashboard to analyze results.
+![Step5](../images/Tutorial1-Step5h.gif)
 
 - You have the option to generate notebook or deploy the model to Watson machine learning to push optimization model to production.
-![Step3d](../images/Tutorial2-Step3d.png)
+![Step5](../images/Tutorial1-Step5i.png)
 
 ** This is end of this lab **
