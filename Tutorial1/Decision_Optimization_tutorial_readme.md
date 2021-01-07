@@ -106,7 +106,7 @@ To learn more about how to use the templates click [here](https://www.ibm.com/su
 
 - Next, we modify the second suggested constraint. Click the **1** for the *The number of Shifts  assigned to each Employee is less than or equal to  1* and type 5. This will make sure that every employee will not get more than 5 shifts during a week.
 
-![Step4](../images/Tutoria1-Step4d.gif)
+![Step4](../images/Tutorial1-Step4d.gif)
 
 - Now we add a constraint, On the Suggestion section on the right, type *For each Employee to Shift assignment requested skills of assigned Shift  is included in  skills of assigned Employees* You can click the plus icon next to **For each Employee to Shift assignment , requested skills of assigned Shift  is included in  skills of assigned Employees**.
 This constraint will make sure that every shift will get employees with skills that are necessary to staff the department.
