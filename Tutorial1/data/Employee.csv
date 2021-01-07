@@ -1,216 +1,216 @@
 employeeId,pay rate,skills,days off,seniority,qualification
-10014,25,CustomerService,"Saturday,Sunday",11,1
-10020,28,CustomerService,"Wednesday,Tuesday",4,5
-10022,17,CustomerService,"Monday,Thursday",2,2
-10025,17,CustomerService,"Thursday,Tuesday",2,2
-10043,38,CustomerService,"Friday,Wednesday",9,5
-10045,38,CustomerService,"Thursday,Tuesday",11,4
-10048,21,"Forklift, CustomerService",Sunday,5,2
-10064,15,"Forklift, CustomerService",Monday,1,2
-10066,24,"Forklift, CustomerService","Saturday,Wednesday",7,2
-10072,21,"Forklift, CustomerService","Tuesday,Friday",3,3
-10075,25,Supervisor,Monday,8,2
-10088,16,Forklift,"Monday,Thursday",3,1
-10089,23,Forklift,"Saturday,Sunday",3,4
-10090,22,Forklift,"Wednesday,Friday",4,3
-10091,17,Forklift,"Tuesday,Friday",2,2
-10096,22,Forklift,"Friday,Wednesday",2,4
-10101,24,Forklift,"Thursday,Saturday",5,3
-10102,29,Forklift,"Sunday,Thursday",8,3
-10103,22,Forklift,"Tuesday,Friday",4,3
-10105,22,CustomerService,Sunday,6,2
-10113,31,Forklift,"Thursday,Tuesday",7,4
-10116,24,Supervisor,"Tuesday,Monday",5,3
-10118,32,Forklift,Sunday,8,4
-10122,38,CustomerService,"Sunday,Thursday",9,5
-10128,14,Forklift,"Friday,Wednesday",0,2
-10137,13,Forklift,"Saturday,Wednesday",1,1
-10138,19,CustomerService,"Saturday,Sunday",6,1
-10139,26,Forklift,"Friday,Saturday",3,5
-10140,18,Supervisor,Monday,5,1
-10141,20,Forklift,"Wednesday,Friday",7,1
-10150,21,CustomerService,"Thursday,Saturday",5,2
-10155,29,Forklift,"Saturday,Sunday",8,3
-10158,25,CustomerService,"Saturday,Sunday",11,1
-10162,28,CustomerService,"Wednesday,Tuesday",4,5
-10164,17,CustomerService,"Monday,Thursday",2,2
-10166,17,CustomerService,"Thursday,Tuesday",2,2
-10178,38,CustomerService,"Friday,Wednesday",9,5
-10179,38,CustomerService,"Thursday,Tuesday",11,4
-10181,21,"Forklift, CustomerService",Sunday,5,2
-10192,15,"Forklift, CustomerService",Monday,1,2
-10194,24,"Forklift, CustomerService","Saturday,Wednesday",7,2
-10201,21,"Forklift, CustomerService","Tuesday,Friday",3,3
-10204,25,Supervisor,Monday,8,2
-10206,16,Forklift,"Monday,Thursday",3,1
-10207,23,Forklift,"Saturday,Sunday",3,4
-10212,22,Forklift,"Wednesday,Friday",4,3
-10221,17,Forklift,"Tuesday,Friday",2,2
-10222,22,Forklift,"Friday,Wednesday",2,4
-10225,24,Forklift,"Thursday,Saturday",5,3
-10226,29,Forklift,"Sunday,Thursday",8,3
-10229,22,Forklift,"Tuesday,Friday",4,3
-10236,22,CustomerService,Sunday,6,2
-10240,31,Forklift,"Thursday,Tuesday",7,4
-10250,24,Supervisor,"Tuesday,Monday",5,3
-10252,32,Forklift,Sunday,8,4
-10253,38,CustomerService,"Sunday,Thursday",9,5
-10259,14,Forklift,"Friday,Wednesday",0,2
-10269,13,Forklift,"Saturday,Wednesday",1,1
-10270,19,CustomerService,"Saturday,Sunday",6,1
-10275,26,Forklift,"Friday,Saturday",3,5
-10282,18,Supervisor,Monday,5,1
-10289,20,Forklift,"Wednesday,Friday",7,1
-10292,21,CustomerService,"Thursday,Saturday",5,2
-10297,29,Forklift,"Saturday,Sunday",8,3
-10298,25,CustomerService,"Saturday,Sunday",11,1
-10300,28,CustomerService,"Wednesday,Tuesday",4,5
-10301,17,CustomerService,"Monday,Thursday",2,2
-10302,17,CustomerService,"Thursday,Tuesday",2,2
-10308,38,CustomerService,"Friday,Wednesday",9,5
-10309,38,CustomerService,"Thursday,Tuesday",11,4
-10310,21,"Forklift, CustomerService",Sunday,5,2
-10320,15,"Forklift, CustomerService",Monday,1,2
-10321,24,"Forklift, CustomerService","Saturday,Wednesday",7,2
-10324,21,"Forklift, CustomerService","Tuesday,Friday",3,3
-10330,25,Supervisor,Monday,8,2
-10338,16,Forklift,"Monday,Thursday",3,1
-10343,23,Forklift,"Saturday,Sunday",3,4
-10347,22,Forklift,"Wednesday,Friday",4,3
-10349,17,Forklift,"Tuesday,Friday",2,2
-10350,22,Forklift,"Friday,Wednesday",2,4
-10352,24,Forklift,"Thursday,Saturday",5,3
-10354,29,Forklift,"Sunday,Thursday",8,3
-10359,22,Forklift,"Tuesday,Friday",4,3
-10362,22,CustomerService,Sunday,6,2
-10365,31,Forklift,"Thursday,Tuesday",7,4
-10378,24,Supervisor,"Tuesday,Monday",5,3
-10386,32,Forklift,Sunday,8,4
-10390,38,CustomerService,"Sunday,Thursday",9,5
-10394,14,Forklift,"Friday,Wednesday",0,2
-10395,13,Forklift,"Saturday,Wednesday",1,1
-10398,19,CustomerService,"Saturday,Sunday",6,1
-10399,26,Forklift,"Friday,Saturday",3,5
-10401,18,Supervisor,Monday,5,1
-10402,20,Forklift,"Wednesday,Friday",7,1
-10406,21,CustomerService,"Thursday,Saturday",5,2
-10407,29,Forklift,"Saturday,Sunday",8,3
-10410,25,CustomerService,"Saturday,Sunday",11,1
-10415,28,CustomerService,"Wednesday,Tuesday",4,5
-10426,17,CustomerService,"Monday,Thursday",2,2
-10430,17,CustomerService,"Thursday,Tuesday",2,2
-10436,38,CustomerService,"Friday,Wednesday",9,5
-10447,38,CustomerService,"Thursday,Tuesday",11,4
-10457,21,"Forklift, CustomerService",Sunday,5,2
-10461,15,"Forklift, CustomerService",Monday,1,2
-10464,24,"Forklift, CustomerService","Saturday,Wednesday",7,2
-10465,21,"Forklift, CustomerService","Tuesday,Friday",3,3
-10471,25,Supervisor,Monday,8,2
-10473,16,Forklift,"Monday,Thursday",3,1
-10480,23,Forklift,"Saturday,Sunday",3,4
-10486,22,Forklift,"Wednesday,Friday",4,3
-10504,17,Forklift,"Tuesday,Friday",2,2
-10505,22,Forklift,"Friday,Wednesday",2,4
-10514,24,Forklift,"Thursday,Saturday",5,3
-10544,29,Forklift,"Sunday,Thursday",8,3
-10551,22,Forklift,"Tuesday,Friday",4,3
-10553,22,CustomerService,Sunday,6,2
-10562,31,Forklift,"Thursday,Tuesday",7,4
-10563,24,Supervisor,"Tuesday,Monday",5,3
-10565,32,Forklift,Sunday,8,4
-10566,38,CustomerService,"Sunday,Thursday",9,5
-10575,14,Forklift,"Friday,Wednesday",0,2
-10578,13,Forklift,"Saturday,Wednesday",1,1
-10580,19,CustomerService,"Saturday,Sunday",6,1
-10583,26,Forklift,"Friday,Saturday",3,5
-10585,18,Supervisor,Monday,5,1
-10592,20,Forklift,"Wednesday,Friday",7,1
-10593,21,CustomerService,"Thursday,Saturday",5,2
-10596,29,Forklift,"Saturday,Sunday",8,3
-10598,25,CustomerService,"Saturday,Sunday",11,1
-10600,28,CustomerService,"Wednesday,Tuesday",4,5
-10602,17,CustomerService,"Monday,Thursday",2,2
-10613,17,CustomerService,"Thursday,Tuesday",2,2
-10629,38,CustomerService,"Friday,Wednesday",9,5
-10655,38,CustomerService,"Thursday,Tuesday",11,4
-10658,21,"Forklift, CustomerService",Sunday,5,2
-10659,15,"Forklift, CustomerService",Monday,1,2
-10661,24,"Forklift, CustomerService","Saturday,Wednesday",7,2
-10666,21,"Forklift, CustomerService","Tuesday,Friday",3,3
-10672,25,Supervisor,Monday,8,2
-10676,16,Forklift,"Monday,Thursday",3,1
-10678,23,Forklift,"Saturday,Sunday",3,4
-10680,22,Forklift,"Wednesday,Friday",4,3
-10681,17,Forklift,"Tuesday,Friday",2,2
-10684,22,Forklift,"Friday,Wednesday",2,4
-10688,24,Forklift,"Thursday,Saturday",5,3
-10692,29,Forklift,"Sunday,Thursday",8,3
-10695,22,Forklift,"Tuesday,Friday",4,3
-10696,22,CustomerService,Sunday,6,2
-10700,31,Forklift,"Thursday,Tuesday",7,4
-10704,24,Supervisor,"Tuesday,Monday",5,3
-10710,32,Forklift,Sunday,8,4
-10711,38,CustomerService,"Sunday,Thursday",9,5
-10712,14,Forklift,"Friday,Wednesday",0,2
-10713,13,Forklift,"Saturday,Wednesday",1,1
-10714,19,CustomerService,"Saturday,Sunday",6,1
-10716,26,Forklift,"Friday,Saturday",3,5
-10717,18,Supervisor,Monday,5,1
-10718,20,Forklift,"Wednesday,Friday",7,1
-10719,21,CustomerService,"Thursday,Saturday",5,2
-10721,29,Forklift,"Saturday,Sunday",8,3
-10722,25,CustomerService,"Saturday,Sunday",11,1
-10723,28,CustomerService,"Wednesday,Tuesday",4,5
-10725,17,CustomerService,"Monday,Thursday",2,2
-10726,17,CustomerService,"Thursday,Tuesday",2,2
-10727,38,CustomerService,"Friday,Wednesday",9,5
-10729,38,CustomerService,"Thursday,Tuesday",11,4
-10730,21,"Forklift, CustomerService",Sunday,5,2
-10731,15,"Forklift, CustomerService",Monday,1,2
-10733,24,"Forklift, CustomerService","Saturday,Wednesday",7,2
-10734,21,"Forklift, CustomerService","Tuesday,Friday",3,3
-10735,25,Supervisor,Monday,8,2
-10736,16,Forklift,"Monday,Thursday",3,1
-10737,23,Forklift,"Saturday,Sunday",3,4
-10738,22,Forklift,"Wednesday,Friday",4,3
-10739,17,Forklift,"Tuesday,Friday",2,2
-10740,22,Forklift,"Friday,Wednesday",2,4
-10741,24,Forklift,"Thursday,Saturday",5,3
-10743,29,Forklift,"Sunday,Thursday",8,3
-10745,22,Forklift,"Tuesday,Friday",4,3
-10746,22,CustomerService,Sunday,6,2
-10747,31,Forklift,"Thursday,Tuesday",7,4
-10748,24,Supervisor,"Tuesday,Monday",5,3
-10751,32,Forklift,Sunday,8,4
-10752,38,CustomerService,"Sunday,Thursday",9,5
-10753,14,Forklift,"Friday,Wednesday",0,2
-10755,13,Forklift,"Saturday,Wednesday",1,1
-10756,19,CustomerService,"Saturday,Sunday",6,1
-10757,26,Forklift,"Friday,Saturday",3,5
-10758,18,Supervisor,Monday,5,1
-10759,20,Forklift,"Wednesday,Friday",7,1
-10760,21,CustomerService,"Thursday,Saturday",5,2
-10763,29,Forklift,"Saturday,Sunday",8,3
-10764,25,CustomerService,"Saturday,Sunday",11,1
-10765,28,CustomerService,"Wednesday,Tuesday",4,5
-10766,17,CustomerService,"Monday,Thursday",2,2
-10768,17,CustomerService,"Thursday,Tuesday",2,2
-10774,38,CustomerService,"Friday,Wednesday",9,5
-10777,38,CustomerService,"Thursday,Tuesday",11,4
-10778,21,"Forklift, CustomerService",Sunday,5,2
-10779,15,"Forklift, CustomerService",Monday,1,2
-10780,24,"Forklift, CustomerService","Saturday,Wednesday",7,2
-10781,21,"Forklift, CustomerService","Tuesday,Friday",3,3
-10782,25,Supervisor,Monday,8,2
-10783,16,Forklift,"Monday,Thursday",3,1
-10784,23,Forklift,"Saturday,Sunday",3,4
-10785,22,Forklift,"Wednesday,Friday",4,3
-10786,17,Forklift,"Tuesday,Friday",2,2
-10787,22,Forklift,"Friday,Wednesday",2,4
-10788,24,Forklift,"Thursday,Saturday",5,3
-10789,29,Forklift,"Sunday,Thursday",8,3
-10791,22,Forklift,"Tuesday,Friday",4,3
-10792,22,CustomerService,Sunday,6,2
-10794,31,Forklift,"Thursday,Tuesday",7,4
-10795,24,Supervisor,"Tuesday,Monday",5,3
-10799,32,Forklift,Sunday,8,4
+E10014,25,CustomerService,"Saturday,Sunday",11,1
+E10020,28,CustomerService,"Wednesday,Tuesday",4,5
+E10022,17,CustomerService,"Monday,Thursday",2,2
+E10025,17,CustomerService,"Thursday,Tuesday",2,2
+E10043,38,CustomerService,"Friday,Wednesday",9,5
+E10045,38,CustomerService,"Thursday,Tuesday",11,4
+E10048,21,"Forklift, CustomerService",Sunday,5,2
+E10064,15,"Forklift, CustomerService",Monday,1,2
+E10066,24,"Forklift, CustomerService","Saturday,Wednesday",7,2
+E10072,21,"Forklift, CustomerService","Tuesday,Friday",3,3
+E10075,38,Supervisor,Monday,8,2
+E10088,16,Forklift,"Monday,Thursday",3,1
+E10089,23,Forklift,"Saturday,Sunday",3,4
+E10090,22,Forklift,"Wednesday,Friday",4,3
+E10091,17,Forklift,"Tuesday,Friday",2,2
+E10096,22,Forklift,"Friday,Wednesday",2,4
+E10101,24,Forklift,"Thursday,Saturday",5,3
+E10102,29,Forklift,"Sunday,Thursday",8,3
+E10103,22,Forklift,"Tuesday,Friday",4,3
+E10105,22,CustomerService,Sunday,6,2
+E10113,31,Forklift,"Thursday,Tuesday",7,4
+E10116,34,Supervisor,"Tuesday,Monday",5,3
+E10118,32,Forklift,Sunday,8,4
+E10122,38,CustomerService,"Sunday,Thursday",9,5
+E10128,14,Forklift,"Friday,Wednesday",0,2
+E10137,13,Forklift,"Saturday,Wednesday",1,1
+E10138,19,CustomerService,"Saturday,Sunday",6,1
+E10139,26,Forklift,"Friday,Saturday",3,5
+E10140,48,Supervisor,Monday,5,1
+E10141,20,Forklift,"Wednesday,Friday",7,1
+E10150,21,CustomerService,"Thursday,Saturday",5,2
+E10155,29,Forklift,"Saturday,Sunday",8,3
+E10158,25,CustomerService,"Saturday,Sunday",11,1
+E10162,28,CustomerService,"Wednesday,Tuesday",4,5
+E10164,17,CustomerService,"Monday,Thursday",2,2
+E10166,17,CustomerService,"Thursday,Tuesday",2,2
+E10178,38,CustomerService,"Friday,Wednesday",9,5
+E10179,38,CustomerService,"Thursday,Tuesday",11,4
+E10181,21,"Forklift, CustomerService",Sunday,5,2
+E10192,15,"Forklift, CustomerService",Monday,1,2
+E10194,24,"Forklift, CustomerService","Saturday,Wednesday",7,2
+E10201,21,"Forklift, CustomerService","Tuesday,Friday",3,3
+E10204,45,Supervisor,Monday,8,2
+E10206,16,Forklift,"Monday,Thursday",3,1
+E10207,23,Forklift,"Saturday,Sunday",3,4
+E10212,22,Forklift,"Wednesday,Friday",4,3
+E10221,17,Forklift,"Tuesday,Friday",2,2
+E10222,22,Forklift,"Friday,Wednesday",2,4
+E10225,24,Forklift,"Thursday,Saturday",5,3
+E10226,29,Forklift,"Sunday,Thursday",8,3
+E10229,22,Forklift,"Tuesday,Friday",4,3
+E10236,22,CustomerService,Sunday,6,2
+E10240,31,Forklift,"Thursday,Tuesday",7,4
+E10250,44,Supervisor,"Tuesday,Monday",5,3
+E10252,32,Forklift,Sunday,8,4
+E10253,38,CustomerService,"Sunday,Thursday",9,5
+E10259,14,Forklift,"Friday,Wednesday",0,2
+E10269,13,Forklift,"Saturday,Wednesday",1,1
+E10270,19,CustomerService,"Saturday,Sunday",6,1
+E10275,26,Forklift,"Friday,Saturday",3,5
+E10282,38,Supervisor,Monday,5,1
+E10289,20,Forklift,"Wednesday,Friday",7,1
+E10292,21,CustomerService,"Thursday,Saturday",5,2
+E10297,29,Forklift,"Saturday,Sunday",8,3
+E10298,25,CustomerService,"Saturday,Sunday",11,1
+E10300,28,CustomerService,"Wednesday,Tuesday",4,5
+E10301,17,CustomerService,"Monday,Thursday",2,2
+E10302,17,CustomerService,"Thursday,Tuesday",2,2
+E10308,38,CustomerService,"Friday,Wednesday",9,5
+E10309,38,CustomerService,"Thursday,Tuesday",11,4
+E10310,21,"Forklift, CustomerService",Sunday,5,2
+E10320,15,"Forklift, CustomerService",Monday,1,2
+E10321,24,"Forklift, CustomerService","Saturday,Wednesday",7,2
+E10324,21,"Forklift, CustomerService","Tuesday,Friday",3,3
+E10330,45,Supervisor,Monday,8,2
+E10338,16,Forklift,"Monday,Thursday",3,1
+E10343,23,Forklift,"Saturday,Sunday",3,4
+E10347,22,Forklift,"Wednesday,Friday",4,3
+E10349,17,Forklift,"Tuesday,Friday",2,2
+E10350,22,Forklift,"Friday,Wednesday",2,4
+E10352,24,Forklift,"Thursday,Saturday",5,3
+E10354,29,Forklift,"Sunday,Thursday",8,3
+E10359,22,Forklift,"Tuesday,Friday",4,3
+E10362,22,CustomerService,Sunday,6,2
+E10365,31,Forklift,"Thursday,Tuesday",7,4
+E10378,34,Supervisor,"Tuesday,Monday",5,3
+E10386,32,Forklift,Sunday,8,4
+E10390,38,CustomerService,"Sunday,Thursday",9,5
+E10394,14,Forklift,"Friday,Wednesday",0,2
+E10395,13,Forklift,"Saturday,Wednesday",1,1
+E10398,19,CustomerService,"Saturday,Sunday",6,1
+E10399,26,Forklift,"Friday,Saturday",3,5
+E10401,38,Supervisor,Monday,5,1
+E10402,20,Forklift,"Wednesday,Friday",7,1
+E10406,21,CustomerService,"Thursday,Saturday",5,2
+E10407,29,Forklift,"Saturday,Sunday",8,3
+E10410,25,CustomerService,"Saturday,Sunday",11,1
+E10415,28,CustomerService,"Wednesday,Tuesday",4,5
+E10426,17,CustomerService,"Monday,Thursday",2,2
+E10430,17,CustomerService,"Thursday,Tuesday",2,2
+E10436,38,CustomerService,"Friday,Wednesday",9,5
+E10447,38,CustomerService,"Thursday,Tuesday",11,4
+E10457,21,"Forklift, CustomerService",Sunday,5,2
+E10461,15,"Forklift, CustomerService",Monday,1,2
+E10464,24,"Forklift, CustomerService","Saturday,Wednesday",7,2
+E10465,21,"Forklift, CustomerService","Tuesday,Friday",3,3
+E10471,45,Supervisor,Monday,8,2
+E10473,16,Forklift,"Monday,Thursday",3,1
+E10480,23,Forklift,"Saturday,Sunday",3,4
+E10486,22,Forklift,"Wednesday,Friday",4,3
+E10504,17,Forklift,"Tuesday,Friday",2,2
+E10505,22,Forklift,"Friday,Wednesday",2,4
+E10514,24,Forklift,"Thursday,Saturday",5,3
+E10544,29,Forklift,"Sunday,Thursday",8,3
+E10551,22,Forklift,"Tuesday,Friday",4,3
+E10553,22,CustomerService,Sunday,6,2
+E10562,31,Forklift,"Thursday,Tuesday",7,4
+E10563,44,Supervisor,"Tuesday,Monday",5,3
+E10565,32,Forklift,Sunday,8,4
+E10566,38,CustomerService,"Sunday,Thursday",9,5
+E10575,14,Forklift,"Friday,Wednesday",0,2
+E10578,13,Forklift,"Saturday,Wednesday",1,1
+E10580,19,CustomerService,"Saturday,Sunday",6,1
+E10583,26,Forklift,"Friday,Saturday",3,5
+E10585,38,Supervisor,Monday,5,1
+E10592,20,Forklift,"Wednesday,Friday",7,1
+E10593,21,CustomerService,"Thursday,Saturday",5,2
+E10596,29,Forklift,"Saturday,Sunday",8,3
+E10598,25,CustomerService,"Saturday,Sunday",11,1
+E10600,28,CustomerService,"Wednesday,Tuesday",4,5
+E10602,17,CustomerService,"Monday,Thursday",2,2
+E10613,17,CustomerService,"Thursday,Tuesday",2,2
+E10629,38,CustomerService,"Friday,Wednesday",9,5
+E10655,38,CustomerService,"Thursday,Tuesday",11,4
+E10658,21,"Forklift, CustomerService",Sunday,5,2
+E10659,15,"Forklift, CustomerService",Monday,1,2
+E10661,24,"Forklift, CustomerService","Saturday,Wednesday",7,2
+E10666,21,"Forklift, CustomerService","Tuesday,Friday",3,3
+E10672,45,Supervisor,Monday,8,2
+E10676,16,Forklift,"Monday,Thursday",3,1
+E10678,23,Forklift,"Saturday,Sunday",3,4
+E10680,22,Forklift,"Wednesday,Friday",4,3
+E10681,17,Forklift,"Tuesday,Friday",2,2
+E10684,22,Forklift,"Friday,Wednesday",2,4
+E10688,24,Forklift,"Thursday,Saturday",5,3
+E10692,29,Forklift,"Sunday,Thursday",8,3
+E10695,22,Forklift,"Tuesday,Friday",4,3
+E10696,22,CustomerService,Sunday,6,2
+E10700,31,Forklift,"Thursday,Tuesday",7,4
+E10704,44,Supervisor,"Tuesday,Monday",5,3
+E10710,32,Forklift,Sunday,8,4
+E10711,38,CustomerService,"Sunday,Thursday",9,5
+E10712,14,Forklift,"Friday,Wednesday",0,2
+E10713,13,Forklift,"Saturday,Wednesday",1,1
+E10714,19,CustomerService,"Saturday,Sunday",6,1
+E10716,26,Forklift,"Friday,Saturday",3,5
+E10717,38,Supervisor,Monday,5,1
+E10718,20,Forklift,"Wednesday,Friday",7,1
+E10719,21,CustomerService,"Thursday,Saturday",5,2
+E10721,29,Forklift,"Saturday,Sunday",8,3
+E10722,25,CustomerService,"Saturday,Sunday",11,1
+E10723,28,CustomerService,"Wednesday,Tuesday",4,5
+E10725,17,CustomerService,"Monday,Thursday",2,2
+E10726,17,CustomerService,"Thursday,Tuesday",2,2
+E10727,38,CustomerService,"Friday,Wednesday",9,5
+E10729,38,CustomerService,"Thursday,Tuesday",11,4
+E10730,21,"Forklift, CustomerService",Sunday,5,2
+E10731,15,"Forklift, CustomerService",Monday,1,2
+E10733,24,"Forklift, CustomerService","Saturday,Wednesday",7,2
+E10734,21,"Forklift, CustomerService","Tuesday,Friday",3,3
+E10735,35,Supervisor,Monday,8,2
+E10736,16,Forklift,"Monday,Thursday",3,1
+E10737,23,Forklift,"Saturday,Sunday",3,4
+E10738,22,Forklift,"Wednesday,Friday",4,3
+E10739,17,Forklift,"Tuesday,Friday",2,2
+E10740,22,Forklift,"Friday,Wednesday",2,4
+E10741,24,Forklift,"Thursday,Saturday",5,3
+E10743,29,Forklift,"Sunday,Thursday",8,3
+E10745,22,Forklift,"Tuesday,Friday",4,3
+E10746,22,CustomerService,Sunday,6,2
+E10747,31,Forklift,"Thursday,Tuesday",7,4
+E10748,34,Supervisor,"Tuesday,Monday",5,3
+E10751,32,Forklift,Sunday,8,4
+E10752,38,CustomerService,"Sunday,Thursday",9,5
+E10753,14,Forklift,"Friday,Wednesday",0,2
+E10755,13,Forklift,"Saturday,Wednesday",1,1
+E10756,19,CustomerService,"Saturday,Sunday",6,1
+E10757,26,Forklift,"Friday,Saturday",3,5
+E10758,48,Supervisor,Monday,5,1
+E10759,20,Forklift,"Wednesday,Friday",7,1
+E10760,21,CustomerService,"Thursday,Saturday",5,2
+E10763,29,Forklift,"Saturday,Sunday",8,3
+E10764,25,CustomerService,"Saturday,Sunday",11,1
+E10765,28,CustomerService,"Wednesday,Tuesday",4,5
+E10766,17,CustomerService,"Monday,Thursday",2,2
+E10768,17,CustomerService,"Thursday,Tuesday",2,2
+E10774,38,CustomerService,"Friday,Wednesday",9,5
+E10777,38,CustomerService,"Thursday,Tuesday",11,4
+E10778,21,"Forklift, CustomerService",Sunday,5,2
+E10779,15,"Forklift, CustomerService",Monday,1,2
+E10780,24,"Forklift, CustomerService","Saturday,Wednesday",7,2
+E10781,21,"Forklift, CustomerService","Tuesday,Friday",3,3
+E10782,35,Supervisor,Monday,8,2
+E10783,16,Forklift,"Monday,Thursday",3,1
+E10784,23,Forklift,"Saturday,Sunday",3,4
+E10785,22,Forklift,"Wednesday,Friday",4,3
+E10786,17,Forklift,"Tuesday,Friday",2,2
+E10787,22,Forklift,"Friday,Wednesday",2,4
+E10788,24,Forklift,"Thursday,Saturday",5,3
+E10789,29,Forklift,"Sunday,Thursday",8,3
+E10791,22,Forklift,"Tuesday,Friday",4,3
+E10792,22,CustomerService,Sunday,6,2
+E10794,31,Forklift,"Thursday,Tuesday",7,4
+E10795,44,Supervisor,"Tuesday,Monday",5,3
+E10799,32,Forklift,Sunday,8,4
