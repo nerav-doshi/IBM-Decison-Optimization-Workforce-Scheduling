@@ -149,7 +149,7 @@ This constraint will make sure that every shift will get employees with skills t
 - Click Explore Solution and review Objective and Solution Table tab to look at employee assignment by shift.
 ![Step5](../images/Tutorial1-Step5g.png)
 
-- Click Visualization. Click on pencil icon on right-side. Click Json tab and delete the content. **Copy the content from dashboard.json** file located [here](https://github.com/nerav-doshi/IBM-Decison-Optimization-Workforce-Scheduling/blob/main/images/dashboard.json) and paste it here. You will see Input, Output and Scenario comparison tab populated with charts. One can use the dashboard to analyze results.
+- Click Visualization. Click on pencil icon on right-side. Click Json tab and delete the content. Copy the content from **dashboard.json** file located [here](https://github.com/nerav-doshi/IBM-Decison-Optimization-Workforce-Scheduling/blob/main/images/dashboard.json) and paste it here. You will see Input, Output and Scenario comparison tab populated with charts. One can use the dashboard to analyze results.
 ![Step5](../images/Tutorial1-Step5h.gif)
 
 - You have the option to generate notebook or deploy the model to Watson machine learning to push optimization model to production.
