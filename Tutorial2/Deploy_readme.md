@@ -31,19 +31,19 @@ You can see the **deployment id** generated which can be used to call from appli
 ![Step2](../images/Tutorial2-Step2a.png)
 
 - Click the **Drop files here or browse files to upload** on the right side and go to [data folder]() and select all the files and upload. We add the data input and output files so that we can execute the model along with input tables and solution will be populated in the solution tables.
-![Step2](../images/Tutorial3-Step2.gif)
+![Step2](../images/Tutorial2-Step2.gif)
 
 ### Step 3. Create job to test deployment
 - Click Deployment tab to go to the **EmployeeShiftAssignment** that was deployed in step1.
-![Step3](../images/Tutorial3-Step3a.png)
+![Step3](../images/Tutorial2-Step3a.png)
 
 - Click **ShiftAssignment**
-![Step3](../images/Tutorial3-Step3b.png)
+![Step3](../images/Tutorial2-Step3b.png)
 
 - To create the job Click Create Job button and select input and create output files if they do not exist.
-![Step3](../images/Tutorial3-Step3c.gif)
+![Step3](../images/Tutorial2-Step3c.gif)
 
 - Click on Jobname **Schedule** and you should see a screen similar to the one shown below where it shows that job completed running in 13 seconds. One can click on the run and look at the log in details.
-![Step3](../images/Tutorial3-Step3d.png)
+![Step3](../images/Tutorial2-Step3d.png)
 
 ** This is end of this lab **
