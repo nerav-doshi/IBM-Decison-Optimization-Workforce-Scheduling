@@ -43,7 +43,7 @@ You can see the **deployment id** generated which can be used to call from appli
 - To create the job Click Create Job button and select input and create output files if they do not exist.
 ![Step3](../images/Tutorial2-Step3c.gif)
 
-- Click on Jobname **Schedule** and you should see a screen similar to the one shown below where it shows that job completed running in 13 seconds. One can click on the run and look at the log in details.
+- Click on Jobname **Schedule** and you should see a screen similar to the one shown. One can click on the run and look at the log in details once it has finished running.
 ![Step3](../images/Tutorial2-Step3d.png)
 
 ** This is end of this lab **
