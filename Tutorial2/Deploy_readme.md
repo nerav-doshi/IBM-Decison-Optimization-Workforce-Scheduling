@@ -15,34 +15,35 @@
 
 - Select deployment space and give name any tags for Example: *CPLEX, decision optimization* and optional description Click **Promote**.
 
-![Step1](../images/Tutorial3-Step1c.png)
-![Step1](../images/Tutorial3-Step1d.png)
+![Step1](../images/Tutorial2-Step1c.png)
+![Step1](../images/Tutorial2-Step1d.png)
 
-- Click on deploy icon on right for PromotionSelection under assets tab. It will take you to a screen where it ask to give it name example:*promotionOpti* select the hardware configuration from the dropdown menu and keep the node to 1 (this is to define execution in parallel) and click Create.
+- Click on deploy icon on right for **EmployeeShiftAssignment** under assets tab. It will take you to a screen where it ask to give it name example:*ShiftAssignment* select the hardware configuration from the dropdown menu and keep the node to 1 (this is to define execution in parallel) and click Create.
 
-![Step1](../images/Tutorial3-Step1c.gif)
+![Step1](../images/Tutorial2-Step1e.gif)
 
-You can see the deployment id generated which can be used to call from application written in C++, java or python to call this model and execute it.
+You can see the **deployment id** generated which can be used to call from application written in C++, java or python to call this model and execute it.
 
 ### Step 2. Add data to deployment space
 
-- Click the *Retail_Lab_deployment space* on the top left side.
+- Click the *Warehouse production models* on the top left side.
 
-![Step2](../images/Tutorial3-Step2.png)
+![Step2](../images/Tutorial3-Step2a.png)
 
 - Click the **Drop files here or browse files to upload** on the right side and go to [data folder]() and select all the files and upload. We add the data input and output files so that we can execute the model along with input tables and solution will be populated in the solution tables.
+![Step2](../images/Tutorial3-Step2.gif)
 
 ### Step 3. Create job to test deployment
-- Click Deployment tab to go to the model that was deployed in step1.
-![Step3](../images/Tutorial3-Step3.png)
-
-- Click promotionOpti
+- Click Deployment tab to go to the **EmployeeShiftAssignment** that was deployed in step1.
 ![Step3](../images/Tutorial3-Step3a.png)
 
-- To create the job Click Create Job button and follow the steps
-![Step3](../images/Tutorial3-Step3b.gif)
+- Click **ShiftAssignment**
+![Step3](../images/Tutorial3-Step3b.png)
 
-- Click on Jobname and you should see a screen similar to the one shown below where it shows that job completed running in 13 seconds. One can click on the run and look at the log in details.
-![Step3](../images/Tutorial3-Step3c.png)
+- To create the job Click Create Job button and select input and create output files if they do not exist.
+![Step3](../images/Tutorial3-Step3c.gif)
+
+- Click on Jobname **Schedule** and you should see a screen similar to the one shown below where it shows that job completed running in 13 seconds. One can click on the run and look at the log in details.
+![Step3](../images/Tutorial3-Step3d.png)
 
 ** This is end of this lab **
