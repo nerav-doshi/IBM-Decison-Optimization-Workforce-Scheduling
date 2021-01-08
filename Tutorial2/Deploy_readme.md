@@ -28,7 +28,7 @@ You can see the **deployment id** generated which can be used to call from appli
 
 - Click the *Warehouse production models* on the top left side.
 
-![Step2](../images/Tutorial3-Step2a.png)
+![Step2](../images/Tutorial2-Step2a.png)
 
 - Click the **Drop files here or browse files to upload** on the right side and go to [data folder]() and select all the files and upload. We add the data input and output files so that we can execute the model along with input tables and solution will be populated in the solution tables.
 ![Step2](../images/Tutorial3-Step2.gif)
