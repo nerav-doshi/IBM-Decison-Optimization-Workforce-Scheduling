@@ -24,4 +24,4 @@ Predictive model using AutoAI - [Evaluate, retrain and redeploy models with IBM 
 
 Tutorial1 - [In this tutorial, objective is to optimize staffing  based on employee safety, skill levels, and cost](Tutorial1/Decision_Optimization_tutorial_readme.md)
 
-Tutorial2 - [ ]
+Tutorial2 - [Here we save optimization model for deployment, promote it to deployment space and create a deployment job with assets added to space ](Tutorial2/Deploy_readme.md)
